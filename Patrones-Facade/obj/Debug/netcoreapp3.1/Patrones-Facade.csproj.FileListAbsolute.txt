@@ -1,0 +1,14 @@
+E:\unity\Patrones-Facade\Patrones-Facade\bin\Debug\netcoreapp3.1\Patrones-Facade.exe
+E:\unity\Patrones-Facade\Patrones-Facade\bin\Debug\netcoreapp3.1\Patrones-Facade.deps.json
+E:\unity\Patrones-Facade\Patrones-Facade\bin\Debug\netcoreapp3.1\Patrones-Facade.runtimeconfig.json
+E:\unity\Patrones-Facade\Patrones-Facade\bin\Debug\netcoreapp3.1\Patrones-Facade.runtimeconfig.dev.json
+E:\unity\Patrones-Facade\Patrones-Facade\bin\Debug\netcoreapp3.1\Patrones-Facade.dll
+E:\unity\Patrones-Facade\Patrones-Facade\bin\Debug\netcoreapp3.1\Patrones-Facade.pdb
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.csproj.AssemblyReference.cache
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.AssemblyInfoInputs.cache
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.AssemblyInfo.cs
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.csproj.CoreCompileInputs.cache
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.dll
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.pdb
+E:\unity\Patrones-Facade\Patrones-Facade\obj\Debug\netcoreapp3.1\Patrones-Facade.genruntimeconfig.cache
