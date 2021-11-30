@@ -1,2 +1,3 @@
 Facade 
--Oculta o simplifica la complejidad que puede tener la aplicación para que el cliente pueda tener un punto de acceso facil y pueda utilizar el sistema sin que sepa que hay por dentro
+
+Facade es un patrón de diseño estructural que proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases.

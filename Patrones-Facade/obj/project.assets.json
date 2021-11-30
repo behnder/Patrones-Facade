@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity\\Patrones-Facade\\Patrones-Facade\\Patrones-Facade.csproj",
+      "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Facade\\Patrones-Facade\\Patrones-Facade.csproj",
       "projectName": "Patrones-Facade",
-      "projectPath": "E:\\unity\\Patrones-Facade\\Patrones-Facade\\Patrones-Facade.csproj",
+      "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Facade\\Patrones-Facade\\Patrones-Facade.csproj",
       "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-      "outputPath": "E:\\unity\\Patrones-Facade\\Patrones-Facade\\obj\\",
+      "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Facade\\Patrones-Facade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
